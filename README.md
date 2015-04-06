@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/HPI-Hackathon/Info/master/Media/banner.jpg)
+
 Ihr werdet 24h Zeit haben im Team eine eigene Idee mit der [eBay Kleinanzeigen](http://kleinanzeigen.ebay.de/anzeigen/) / [Mobile.de](http://www.mobile.de/) APIs umzusetzen. Dabei werden Studenten des HPI, sowie Experten von unseren Projektpartnern die Betreuung vor Ort übernehmen. Und natürlich wird es auch Preise zu gewinnen geben, darunter: 
 - Xbox One
 - iPad mini
