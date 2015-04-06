@@ -6,6 +6,9 @@ Ihr werdet 24h Zeit haben im Team eine eigene Idee mit der [eBay Kleinanzeigen](
 - Moto 360
 - Arduino Sets
 
+## Projekte
+Reicht eure Hacks bitte bis zur Deadline bei unserem [Event auf Hacker League](https://www.hackerleague.org/hackathons/hpi-hackathon-mit-ebay-and-mobile-dot-de) ein. Alle eingereichten Projekte müssen mit einer open-source Lizenz auf GitHub gehostet sein. Wir haben dazu eine [HPI Hackathon Organisation](https://github.com/HPI-Hackathon) eingerichtet.
+
 ## Themen
 Orientieren solltet Ihr euch an einem der folgenden Themen:
 
