@@ -6,6 +6,9 @@ Ihr werdet 24h Zeit haben im Team eine eigene Idee mit der [eBay Kleinanzeigen](
 - Moto 360
 - Arduino Sets
 
+## Fotos
+Eindrücke vom Event sind im [Google+ Album](https://plus.google.com/photos/100169449129032220413/albums/6134982738880644641?authkey=CKHeqd3or43H6AE) zu finden.
+
 ## APIs
 [Mobile.de Docs](http://m.mobile.de/svc/api.html) und 
 [eBay Kleinanzeigen Docs](http://api.ebay-kleinanzeigen.de/docs/pages/home)
