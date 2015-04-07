@@ -6,6 +6,20 @@ Ihr werdet 24h Zeit haben im Team eine eigene Idee mit der [eBay Kleinanzeigen](
 - Moto 360
 - Arduino Sets
 
+## APIs
+[Mobile.de Docs](http://m.mobile.de/svc/api.html)
+[eBay Kleinanzeigen Docs](http://api.ebay-kleinanzeigen.de/docs/pages/home)
+```
+Suche nach Marken bei mobile.de (JSON):
+$ curl 'http://m.mobile.de/svc/r/makes/Car'
+
+Suche nach BMW Autos bei mobile.de (JSON):
+$ curl 'http://m.mobile.de/svc/s/?mk=3500'
+
+Lade eine Anzeige von eBay Kleinanzeigen (XML):
+$ curl --user hpi_hackathon:dsk38a1l 'https://api.ebay-kleinanzeigen.de/api/ads.json'
+```
+
 ## Projekte
 Reicht eure Hacks bitte bis zur Deadline bei unserem [Event auf Hacker League](https://www.hackerleague.org/hackathons/hpi-hackathon-mit-ebay-and-mobile-dot-de) ein. Alle eingereichten Projekte müssen mit einer open-source Lizenz auf GitHub gehostet sein. Wir haben dazu eine [HPI Hackathon Organisation](https://github.com/HPI-Hackathon) eingerichtet.
 
