@@ -7,7 +7,7 @@ Ihr werdet 24h Zeit haben im Team eine eigene Idee mit der [eBay Kleinanzeigen](
 - Arduino Sets
 
 ## APIs
-[Mobile.de Docs](http://m.mobile.de/svc/api.html)
+[Mobile.de Docs](http://m.mobile.de/svc/api.html) und 
 [eBay Kleinanzeigen Docs](http://api.ebay-kleinanzeigen.de/docs/pages/home)
 ```
 Suche nach Marken bei mobile.de (JSON):
@@ -17,7 +17,7 @@ Suche nach BMW Autos bei mobile.de (JSON):
 $ curl 'http://m.mobile.de/svc/s/?mk=3500'
 
 Lade eine Anzeige von eBay Kleinanzeigen (XML):
-$ curl --user hpi_hackathon:dsk38a1l 'https://api.ebay-kleinanzeigen.de/api/ads.json'
+$ curl --user USERNAME:PASSWORD 'https://api.ebay-kleinanzeigen.de/api/ads.json'
 ```
 
 ## Projekte
