@@ -25,7 +25,7 @@ $ curl --user USERNAME:PASSWORD 'https://api.ebay-kleinanzeigen.de/api/ads.json'
 
 ## Bilder URLs in den APIs
 
-Beim Anfragen der Bilder URLs kann mit einem Präfix bestehend aus ID + '_' eine bestimmte Größe requestet werden:
+Bild-Präfix + '_' + ID
 
 | Id	| Width	 | Height |
 |----|--------|--------| 
